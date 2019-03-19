@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "POI_elektrownie",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Miasto": "Rybnik", "moc": "1670 MW", "Paliwo": "węgiel kamienny" }, "geometry": { "type": "Point", "coordinates": [ 18.517866138668332, 50.135299122289219 ] } },
+{ "type": "Feature", "properties": { "Miasto": "Opole", "moc": "1490 MW", "Paliwo": "węgiel kamienny" }, "geometry": { "type": "Point", "coordinates": [ 17.880469911407562, 50.751764005474719 ] } },
+{ "type": "Feature", "properties": { "Miasto": "Jaworzno", "moc": "1245 MW", "Paliwo": "węgiel kamienny" }, "geometry": { "type": "Point", "coordinates": [ 19.218407409938894, 50.209015241450253 ] } },
+{ "type": "Feature", "properties": { "Miasto": "Łaziska Górne", "moc": "1155 MW", "Paliwo": "węgiel kamienny" }, "geometry": { "type": "Point", "coordinates": [ 18.846206691274485, 50.133488782498802 ] } },
+{ "type": "Feature", "properties": { "Miasto": "Łagisza", "moc": "875 MW", "Paliwo": "węgiel kamienny" }, "geometry": { "type": "Point", "coordinates": [ 19.143832776804029, 50.34920448192203 ] } },
+{ "type": "Feature", "properties": { "Miasto": "Siersza", "moc": "720 MW", "Paliwo": "węgiel kamienny" }, "geometry": { "type": "Point", "coordinates": [ 19.462086558763566, 50.208413403024274 ] } },
+{ "type": "Feature", "properties": { "Miasto": "Skawina", "moc": "590 MW", "Paliwo": "węgiel kamienny" }, "geometry": { "type": "Point", "coordinates": [ 19.80481218687947, 49.97635394416934 ] } },
+{ "type": "Feature", "properties": { "Miasto": "Kozienice", "moc": "2880 MW", "Paliwo": "węgiel kamienny" }, "geometry": { "type": "Point", "coordinates": [ 21.45961589080019, 51.661709182156237 ] } },
+{ "type": "Feature", "properties": { "Miasto": "Połaniec", "moc": "1600 MW", "Paliwo": "węgiel kamienny" }, "geometry": { "type": "Point", "coordinates": [ 21.340017230834714, 50.439235384466521 ] } },
+{ "type": "Feature", "properties": { "Miasto": "Dolna Odra", "moc": "1752 MW", "Paliwo": "węgiel kamienny" }, "geometry": { "type": "Point", "coordinates": [ 14.465977123532825, 53.203978949416651 ] } },
+{ "type": "Feature", "properties": { "Miasto": "Ostrołęka", "moc": "720 MW", "Paliwo": "węgiel kamienny" }, "geometry": { "type": "Point", "coordinates": [ 21.609209484510814, 53.103683995983275 ] } },
+{ "type": "Feature", "properties": { "Miasto": "Bełchatów", "moc": "4440 MW", "Paliwo": "węgiel brunatny" }, "geometry": { "type": "Point", "coordinates": [ 19.325934444072193, 51.266720076243061 ] } },
+{ "type": "Feature", "properties": { "Miasto": "Turów", "moc": "1800 MW", "Paliwo": "węgiel brunatny" }, "geometry": { "type": "Point", "coordinates": [ 14.911566736126428, 50.947408917837301 ] } },
+{ "type": "Feature", "properties": { "Miasto": "Pątnów", "moc": "1600 MW", "Paliwo": "węgiel brunatny" }, "geometry": { "type": "Point", "coordinates": [ 18.236048557548244, 52.303007221092194 ] } },
+{ "type": "Feature", "properties": { "Miasto": "Adamów", "moc": "600 MW", "Paliwo": "węgiel brunatny" }, "geometry": { "type": "Point", "coordinates": [ 18.545899012428357, 52.012043435881225 ] } },
+{ "type": "Feature", "properties": { "Miasto": "Konin", "moc": "583 MW", "Paliwo": "węgiel brunatny" }, "geometry": { "type": "Point", "coordinates": [ 18.268844406295724, 52.285386132835079 ] } },
+{ "type": "Feature", "properties": { "Miasto": "Żarnowiec", "moc": "716 MW", "Paliwo": "woda" }, "geometry": { "type": "Point", "coordinates": [ 18.083858662424532, 54.721977638452778 ] } },
+{ "type": "Feature", "properties": { "Miasto": "Porąbka Żar", "moc": "500 MW", "Paliwo": "woda" }, "geometry": { "type": "Point", "coordinates": [ 19.21174550436665, 49.780356123179658 ] } },
+{ "type": "Feature", "properties": { "Miasto": "Żydowo", "moc": "150 MW", "Paliwo": "woda" }, "geometry": { "type": "Point", "coordinates": [ 16.707055064463017, 54.025129028868804 ] } },
+{ "type": "Feature", "properties": { "Miasto": "Włocławek", "moc": "162 MW", "Paliwo": "woda" }, "geometry": { "type": "Point", "coordinates": [ 19.133856171745702, 52.654742254943564 ] } },
+{ "type": "Feature", "properties": { "Miasto": "Solina na Sanie", "moc": "200 MW", "Paliwo": "woda" }, "geometry": { "type": "Point", "coordinates": [ 22.453971627664124, 49.395780536575955 ] } }
+]
+}
